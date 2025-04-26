@@ -31,11 +31,6 @@
   <li>Clone the repository
     <pre>git clone https://github.com/madhusarania/Feedback-Collector.git</pre>
   </li>
-  <li>Open <code>index.html</code> directly (Frontend only)</li>
-  <li>If backend exists, install dependencies
-    <pre>npm install
-npm start</pre>
-  </li>
   <li>Visit <a href="https://collectorfeedback.netlify.app/">Live Project</a> to check the deployed version.</li>
 </ol>
 
