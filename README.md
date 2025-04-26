@@ -1,8 +1,7 @@
 <h1 align="center">Feedback Collector</h1>
 
 <p align="center">
-  <strong>A clean and modern web application designed to collect and manage user feedback seamlessly.</strong><br />
-  Built with love, simplicity, and performance in mind.
+  <strong>A clean and modern web application designed to collect and manage user feedback seamlessly.</strong>
 </p>
 
 <p align="center">
