@@ -9,18 +9,6 @@
   <a href="https://collectorfeedback.netlify.app/"><strong>View Live Project 🚀</strong></a>
 </p>
 
----
-
-<table>
-  <tr>
-    <td align="center"><strong>Home Page</strong></td>
-    <td align="center"><strong>Feedback Form</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://via.placeholder.com/400x250?text=Home+Page" alt="Home Page Screenshot"></td>
-    <td align="center"><img src="https://via.placeholder.com/400x250?text=Feedback+Form" alt="Feedback Form Screenshot"></td>
-  </tr>
-</table>
 
 ---
 
@@ -64,23 +52,11 @@ npm start</pre>
 
 ---
 
-<h2>🧡 Author</h2>
-
-<p>
-  <strong>Madhu Sarania</strong><br />
-  <a href="https://github.com/madhusarania">GitHub</a> | 
-  <a href="https://port-momento.netlify.app">Portfolio</a>
-</p>
-
----
-
 <h2>📜 License</h2>
 
-<p>This project is licensed under the MIT License - feel free to use and modify it!</p>
+<p>This project is licensed under the MIT License</p>
 
 ---
 
-<h2>🙌 Support</h2>
 
-<p>If you like this project, please ⭐ the repo and share it with your friends!</p>
 
